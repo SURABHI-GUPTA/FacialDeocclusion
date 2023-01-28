@@ -8,6 +8,9 @@ Traditionally, video conferencing is a widely adopted solution for remote commun
 ## Results
 ![image](result.png)
 
+## Results on Videos
+![video](v_result.gif)
+
 ## Downloads
 * [Paper]()
 * [Supplementary]()
