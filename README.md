@@ -16,7 +16,14 @@ Traditionally, video conferencing is a widely adopted solution for remote commun
 * [Supplementary]()
 * Code coming soon !
 
-## Contact
-* [Surabhi Gupta](surabhi.gupta@research.iiit.ac.in)
-* [Ashwath Shetty](ashwath.shetty@research.iiit.ac.in)
-* [Avinash Sharma](asharma@iiit.ac.in)
+## BibTex
+@INPROCEEDINGS{9866956,
+  author={Gupta, Surabhi and Shetty, Ashwath and Sharma, Avinash},
+  booktitle={2022 19th Conference on Robots and Vision (CRV)}, 
+  title={Attention based Occlusion Removal for Hybrid Telepresence Systems}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={167-174},
+  doi={10.1109/CRV55824.2022.00029}}
+
