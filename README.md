@@ -17,6 +17,7 @@ Traditionally, video conferencing is a widely adopted solution for remote commun
 * Code coming soon !
 
 ## BibTex
+```
 @INPROCEEDINGS{9866956,
   author={Gupta, Surabhi and Shetty, Ashwath and Sharma, Avinash},
   booktitle={2022 19th Conference on Robots and Vision (CRV)}, 
@@ -26,4 +27,5 @@ Traditionally, video conferencing is a widely adopted solution for remote commun
   number={},
   pages={167-174},
   doi={10.1109/CRV55824.2022.00029}}
+  ```
 
